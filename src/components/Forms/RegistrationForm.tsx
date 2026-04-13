@@ -81,7 +81,7 @@ const RegistrationForm = () => {
           Create Account
         </h2>
         <p className="text-slate-500 font-medium">
-          Join the Luxe Marketplace today.
+          Join the Mini Dashboard today.
         </p>
       </div>
 
